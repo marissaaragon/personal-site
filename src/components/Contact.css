@@ -1,0 +1,17 @@
+.contact a{
+    color: #C0D6E4;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    color: #E6E6FA;
+}
+
+.contact ul {
+  padding: 0;
+  list-style: none;
+}
+
+.contact li {
+  margin: 8px 0;
+}
